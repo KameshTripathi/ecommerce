@@ -9,4 +9,10 @@ border radius 50% for slider background and z index has been used.
 cursor pointer and :hover for button.
 
 in app.js, transform property used for slider wrapper with value as translate along x axis by 100vw multiplied by the menu item number.
-click event listener used so that when a menu item is clicked the slide changes.
+click event listener used for menu item so that when a menu item is clicked the slide changes.
+in css, transition property set to 1.5 s ease in out.
+overflow hidden for slider.
+
+4 features added.
+
+in app.js, products array has 5 product objects with each object having an id, a title, a price and a colors array having 2 objects with each object having a code and an image.
