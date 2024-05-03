@@ -16,3 +16,5 @@ overflow hidden for slider.
 4 features added.
 
 in app.js, products array has 5 product objects with each object having an id, a title, a price and a colors array having 2 objects with each object having a code and an image.
+
+When buy now button in slider is clicked, page scrolls down smoothly to product section which is done using a tag and scroll behaviour smooth property in html selector.
