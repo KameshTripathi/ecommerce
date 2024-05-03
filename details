@@ -1,0 +1,12 @@
+2 nav bars at the top.
+first with a logo, a search box and a text. display flex, align items center, justify content space between. search box uses ::placeholder.
+second with five menu items.
+
+slider wrapper with 5 slider items each with a slider image, a slider background, a slider title, a slider price and a buy button.
+css clip path maker to give any shape to your div. 
+each slider item has 100vw. positioning used for elements within slider item.
+border radius 50% for slider background and z index has been used. 
+cursor pointer and :hover for button.
+
+in app.js, transform property used for slider wrapper with value as translate along x axis by 100vw multiplied by the menu item number.
+click event listener used so that when a menu item is clicked the slide changes.
